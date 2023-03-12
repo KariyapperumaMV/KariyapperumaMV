@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.makeagif.com/media/10-14-2020/JIIvbT.gif](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png))]]
+[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
 <h1 align="center">Hi , I'm Methya Kariyapperuma</h1>
 <h3 align="center">A student at SLIIT | UoM</h3>
 
