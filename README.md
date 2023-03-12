@@ -1,8 +1,8 @@
+[![MasterHead](https://i.makeagif.com/media/10-14-2020/JIIvbT.gif)
 <h1 align="center">Hi , I'm Methya Kariyapperuma</h1>
 <h3 align="center">A student at SLIIT | UoM</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariyapperumamv" alt="kariyapperumamv" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
