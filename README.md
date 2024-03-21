@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-# 💫 About Me:
+# Methya Kariyapperuma:
 🎓I'm currently studying at :<br>SLIIT: BSc(Hons) in Software Engineering<br>University of Moratuwa: BSc(Hons) in Facilities Management<br>
 
 
